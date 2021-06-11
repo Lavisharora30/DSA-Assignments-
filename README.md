@@ -1,34 +1,31 @@
 # 🎯💻Daily-Coding-DS-ALGO-Practice🏆🏅
 This repository contains the competitive programming questions. The main aim of the repo is help many other students that are prepare .if you practice on online judges like codechef or any other like gfg you can add questions on this repo <br><br>
 
- <p align="center">
-    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/blob/main/images/manufacturetocat.png" width=400px, height=400px 
- </a> 
 </p>
 
-[Github Pages]()
+[Github Pages](https://github.com/Lavisharora30/DSA-Assignments-.git)
 
 ## Contributing
 
-**1.**  Fork [this](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice.git) repository.
+**1.**  Fork [this](https://github.com/Lavisharora30/DSA-Assignments-.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone 
+git clone https://github.com/Lavisharora30/DSA-Assignments-.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd 
+cd DSA-Assignments-
 
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream 
+git remote add upstream https://github.com/Lavisharora30/DSA-Assignments-.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -68,10 +65,5 @@ git commit -m "Relevant message"
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
-
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
-
-
-**14.** Click on `Create Pull Request`.
+**12.** Click on `Create Pull Request`.
