@@ -68,4 +68,3 @@ git push -u origin <your_branch_name>
 
 **12.** Click on `Create Pull Request`.
 
-"Adding change"
